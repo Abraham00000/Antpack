@@ -1,0 +1,26 @@
+#movil-Antpack
+{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #movil-Antpack {
+        display: block;
+    }
+  }
+
+
+
+@media only screen and (max-width: 600px) {
+    #space-contenedores
+{
+    padding-top: 30px;
+}
+  }
+
+  
+@media only screen and (max-width: 600px) {
+    #movil-Subscribe {
+        display: none;
+    }
+  }
