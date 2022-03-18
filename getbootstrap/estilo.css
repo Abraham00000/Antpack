@@ -3,7 +3,7 @@
     display: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
     #movil-Antpack {
         display: block;
     }
@@ -11,7 +11,7 @@
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
     #space-contenedores
 {
     padding-top: 30px;
@@ -19,8 +19,13 @@
   }
 
   
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
     #movil-Subscribe {
         display: none;
     }
+  }
+
+  #space-contenedores-ul-footer
+  {
+    padding-top: 30px;
   }
